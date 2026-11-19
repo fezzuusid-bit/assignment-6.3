@@ -53,7 +53,7 @@ HTML
     </main>
 
     <footer>
-        <p>&copy; 2026 Atim Akhtar. All rights reserved.</p>
+        <p>&copy; 2026 falak siddiqui. All rights reserved.</p>
     </footer>
 </body>
 </html>
